@@ -10,6 +10,7 @@ import Foundation
 
 struct CityModel {
     var citiesName:String?
+    
 }
 
 struct Step1CellModel {
